@@ -27,7 +27,7 @@ This project introduces working with:
 ## 🛠️ How to Use  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/beginner-clock.git  
+   git clone https://github.com/SheharyarRao/beginner-clock.git  
    ```  
 2. Run the code in your preferred environment.  
 3. Watch the time tick live!  
