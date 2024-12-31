@@ -34,6 +34,7 @@ This project introduces working with:
 
 *Snapshot of the clock display.*  
 
+<img src="/Images/Screenshot 2024-12-26 234658.png">
 ---
 
 ## ✨ Customize  
